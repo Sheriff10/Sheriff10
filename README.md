@@ -8,8 +8,8 @@ Founder of [Galdunx](https://galdunx.com).
 
 **AI:** LangGraph, LangChain, OpenAI SDK, MCP, RAG, ChromaDB  
 **Frontend:** Next.js, React, TypeScript, Tailwind, Flutter  
-**Backend:** FastAPI, NestJS, PostgreSQL, MongoDB  
-**DevOps:** Docker, GitHub Actions, Nginx, DigitalOcean
+**Backend:** Node JS/TS, FastAPI, NestJS, PostgreSQL, MongoDB  
+**DevOps:** Docker, GitHub Actions, Nginx, DigitalOcean, AWS
 
 ## Featured Projects
 
